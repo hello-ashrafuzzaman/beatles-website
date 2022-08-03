@@ -636,7 +636,6 @@ a {
 #testimonial {
     padding: 50px 0;
     margin-bottom: 20px;
-    margin-top: 50px;
 }
 
 #testimonial .test_item {
@@ -816,13 +815,46 @@ a {
 }
 #footer .item3 ul{
     float: left;
+    margin-top: 20x;
 }
 
 #footer .item3 .links{
     margin-left: 18px;
 }
 
-#footer .item4{
-    width: 304px;
+#footer .item3 li{
+    margin-top: 10px;
+    color: #fff;
 }
+
+
+.item4 h3{
+    margin-bottom: 20px;
+}
+.item4{
+width: 304px;
+}
+
+.imag{
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 10px;
+}
+
+.copyright{
+    text-align: center;
+    margin-top: 20px;
+    background-color: #555555;
+    color: #fff;
+    padding: 20px;
+   
+   
+}
+
+.copyright span{
+    color: #0872b9;
+}
+
+
+
 /* footer design End */
